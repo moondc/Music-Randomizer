@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GUI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MusicDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Music</Value>
+    </Setting>
+    <Setting Name="FileExtensions" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mp3,wma</Value>
+    </Setting>
+    <Setting Name="MusicDestination" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Desktop\test</Value>
+    </Setting>
+    <Setting Name="NumberOfSongs" Type="System.String" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="XmlArchivePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Documents\Visual Studio 2013\Projects\Music Randomizer\GUI\bin\Debug\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
